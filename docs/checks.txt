@@ -1,0 +1,3 @@
+The checks scripts are designed to pick up errors in the database and to
+ensure that numbers line up. For instance it updates player activity for
+some accounts used by the game so that they don't become inactive.
