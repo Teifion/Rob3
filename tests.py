@@ -11,7 +11,6 @@ from pages import common
 
 import test_library
 from collections import OrderedDict
-from functions import coverage_f
 
 class Add_deity(test_library.team_t.Add_deity): pass
 class Remove_deity(test_library.team_t.Remove_deity): pass
