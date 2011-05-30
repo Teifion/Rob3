@@ -1,0 +1,3 @@
+The lore is a project I started shortly before the game closed down, it was
+to maintain the text for the readme on the site with the intent to tie
+certain things into the database to make the site stay more up-to-date.

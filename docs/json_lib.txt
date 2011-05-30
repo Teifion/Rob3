@@ -1,0 +1,2 @@
+The JSON libs are for uploading JSON formats of the files, it was designed to
+be a sort of API for players but never really took off.

@@ -1,0 +1,8 @@
+The real power-house of the program, this is what the program was initially
+designed for. Players would post orders to a forum, they'd get downloaded and
+run through the parser. The parser would generate orders and the orders
+executed (if possible). Text results for players and database queries for
+the program would be generated all automatically. By hand it took several
+hours but by computer it takes a minute or two at most.
+
+It would make more sense if re-writing it to use a parser rather than Regexes.

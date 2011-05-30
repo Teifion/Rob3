@@ -1,0 +1,5 @@
+The lists were simply the lists of items (spells, techs, deities etc) that
+were used in the game, they were stored in Python scripts and synced to the
+database automatically by running the "cli.py sync" command. It just made
+it easier for me to maintain, a better method would be to just save them
+straight to the database I suppose.
