@@ -1,0 +1,2 @@
+All this did was store functions and methods for profiling parts of the code. I
+kept the files around so I could test again later if I needed to change anything.

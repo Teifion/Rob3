@@ -1,0 +1,2 @@
+Where an automatic check can't fix something it should go to a report, things
+that the GM needs to chase after to correct manually.

@@ -1,0 +1,2 @@
+I tried to put game-logic in the rule files but it ended up that much of the
+game logic was inter-mixed in other parts of the program.

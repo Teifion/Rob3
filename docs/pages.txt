@@ -1,0 +1,3 @@
+The pages folder contains the main use of the program. It's the pages for
+the admin localhost GUI, displaying and editing data. It's sub divided
+by area and should be fairly easy to guess at the purpose based on the names.
