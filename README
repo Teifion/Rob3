@@ -1,0 +1,21 @@
+Rob is a program used to help run the turn based game WoA (http://woarl.com)
+This code is being made available as the game is no longer running
+and the code is completely unmaintained but is free to use where it suits
+your needs, I would be grateful for attribution should you do so.
+
+It was never written with the intent to share so comments are few and far
+between.
+
+The program requires Python 3 and has two entry points, cli.py and web.py
+
+The web.py was used behind the standard OSX Apache install with a localhost
+URL pointing all queries towards it. exec.py is similar to web.py but is
+intended for anything where you will want to redirect out of the page
+such as inserting a player (so you don't dual insert).
+
+cli.py is the main front-end for running automated scripts, running cli.py h
+will output a list of the most common modes used, one of the most common was
+to upload static versions of some files (WoA was hosted on shared hosting
+with account limits).
+
+**More coming later**
