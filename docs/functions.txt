@@ -1,0 +1,4 @@
+Functions contain functions and methods related to that aspect of the game
+such as creating SQL for inserts or deletes.
+
+cli_f.py contains all the FTP code for uploading the static files.
