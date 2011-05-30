@@ -1,0 +1,5 @@
+The test.py is the main testing script, it uses a module called covers to
+determine basic coverage (which as you can see is pretty poor). With so
+much of the program being reliant on database information it was always
+a hassle to create test data. In retrospect I should have created test
+data from the get-go.

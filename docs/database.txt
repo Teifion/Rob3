@@ -1,0 +1,9 @@
+database.py is what ties the classes to the database and allowed me to
+update the database by altering the classes. I've never been a fan of ORMs
+but I believe that I ended up creating something that did part of what
+ORMs do.
+
+It's designed to work with Postgres but it was originally (Rob 1 & 2) written
+for MySQL and I recall it not being hard to port.
+
+sync.py is the script that runs the synchronisation across all the classes

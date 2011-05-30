@@ -1,0 +1,4 @@
+Data classes are simply classes used in lists (such as the spell list) and
+used as classes simply so that I can map it to the database nice and easily.
+
+Traits were still a work in progress when the game shut down.

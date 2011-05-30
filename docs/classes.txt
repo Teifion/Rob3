@@ -1,0 +1,15 @@
+Classes are normally a direct mapping to their database schema which is
+also a direct mapping to their in-game use. It makes for a hard to-test
+program but when I started it 4 years ago testing wasn't what I cared about.
+
+Each file contains normally 1 class and then information for any sub-tables
+such as linking buildings to their cities.
+
+I am particularly happy with the res_dict class and anybody thinking of making
+a similar game may want to have a look at this. It is designed to act like a
+numerical type and allow you to apply addition, subtraction and suchlike to
+resource pools.
+
+Res_dicts are stored as strings and allow you to define conditional costs
+such as weapons costing less if you have a supply of iron but also swappable
+costs such as being able to use normal magic points in place of specific ones.
